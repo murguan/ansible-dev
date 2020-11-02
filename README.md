@@ -1,4 +1,5 @@
 # ansible-dev
+wanting to learn how to version control projects with git
 Learning to track my code for ansible development
  # ansible-dev (Project Title)
  
